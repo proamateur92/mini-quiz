@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/proamateur92/mini-quiz.git/static/js/main.2f8709d0.js",
-    "index.html": "/proamateur92/mini-quiz.git/index.html",
-    "main.2f8709d0.js.map": "/proamateur92/mini-quiz.git/static/js/main.2f8709d0.js.map"
+    "main.js": "/mini-quiz/static/js/main.e45d0cbc.js",
+    "index.html": "/mini-quiz/index.html",
+    "main.e45d0cbc.js.map": "/mini-quiz/static/js/main.e45d0cbc.js.map"
   },
   "entrypoints": [
-    "static/js/main.2f8709d0.js"
+    "static/js/main.e45d0cbc.js"
   ]
 }
